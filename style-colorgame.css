@@ -1,0 +1,52 @@
+body {
+  background-color: #eedbde;
+  margin: 0px;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 20px;
+  margin: 8px;
+  font-size: 36px;
+}
+
+#msg  {
+  color: ghostwhite;
+  text-align: center;
+  font-size: 14px;
+  /* padding: 8px; */
+}
+button{
+    margin: 8px;
+    font-size: 15px;
+    border: none;
+    padding: 6px 10px;
+    border-radius:40%;
+}
+
+.square {
+  width: 30%;
+  /* height: 30%; */
+  padding-bottom: 30%;
+  float: left;
+  background: deeppink;
+  margin: 1.66%;
+  border-radius: 30%;
+}
+
+#headlower {
+  text-align: center;
+  justify-content: center;
+  color: ghostwhite;
+  padding: 15px;
+  margin: 10px;
+  background-color: deeppink;
+}
+.selected{
+  background-color: rgb(137, 231, 203);
+}
